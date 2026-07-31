@@ -1,0 +1,75 @@
+{
+  "02 Maliyyə və mühasibat": [
+    "050406_Maliyyə",
+    "050409_Mühasibat"
+  ],
+  "03 Biznes və menecment": [
+    "050401_Beynəlxalq ticarət və logistika",
+    "050402_Biznesin idarə edilməsi",
+    "050407_Marketinq",
+    "050408_Menecment"
+  ],
+  "05 İqtisadiyyat və idarəetmə": [
+    "050201_Beynəlxalq münasibətlər",
+    "050404_Dövlət və bələdiyyə idarəetməsi",
+    "050405_İqtisadiyyat",
+    "050410_Statistika",
+    "050504_Ekologiya",
+    "050807_Sosial iş"
+  ],
+  "07 Rus iqtisad məktəbi": [
+    "050201_Beynəlxalq münasibətlər",
+    "050401_Beynəlxalq ticarət və logistika",
+    "050402_Biznesin idarə edilməsi",
+    "050405_İqtisadiyyat",
+    "050406_Maliyyə",
+    "050407_Marketinq",
+    "050408_Menecment",
+    "050409_Mühasibat",
+    "050504_Ekologiya",
+    "050807_Sosial iş"
+  ],
+  "09 Mühəndislik": [
+    "050606_Ekologiya mühəndisliyi",
+    "050607_Elektrik və elektronika mühəndisliyi",
+    "050622_Maşın mühəndisliyi",
+    "050623_Materiallar mühəndisliyi",
+    "050635_Qida mühəndisliyi",
+    "050638_Sənaye mühəndisliyi"
+  ],
+  "10 Rəqəmsal iqtisadiyyat": [
+    "050509_Kompüter elmləri",
+    "050615_İnformasiya təhlükəsizliyi",
+    "050616_İnformasiya texnologiyaları",
+    "050619_Kommunikasiya sistemləri mühəndisliyi",
+    "050620_Kompüter mühəndisliyi"
+  ],
+  "11 UNEC Dizayn Məktəbi": [
+    "050306_Dizayn"
+  ],
+  "13 Beynəlxalq İqtisadiyyat Məktəbi": [
+    "050401_Beynəlxalq ticarət və logistika",
+    "050402_Biznesin idarə edilməsi",
+    "050405_İqtisadiyyat",
+    "050406_Maliyyə",
+    "050409_Mühasibat"
+  ],
+  "18 SABAH": [
+    "050401_Beynəlxalq ticarət və logistika",
+    "050402_Biznesin idarə edilməsi",
+    "050405_İqtisadiyyat",
+    "050406_Maliyyə",
+    "050409_Mühasibat",
+    "050635_Qida mühəndisliyi"
+  ],
+  "20 Türk Dünyası İqtisad": [
+    "050201_Beynəlxalq münasibətlər",
+    "050401_Beynəlxalq ticarət və logistika",
+    "050402_Biznesin idarə edilməsi",
+    "050404_Dövlət və bələdiyyə idarəetməsi",
+    "050405_İqtisadiyyat",
+    "050406_Maliyyə",
+    "050407_Marketinq",
+    "050409_Mühasibat"
+  ]
+}
